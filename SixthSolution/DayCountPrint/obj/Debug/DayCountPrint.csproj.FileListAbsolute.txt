@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\bin\Debug\DayCountPrint.exe.config
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\bin\Debug\DayCountPrint.exe
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\bin\Debug\DayCountPrint.pdb
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.Form1.resources
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.exe
+C:\Users\lsy20\source\repos\week2\SixthSolution\DayCountPrint\obj\Debug\DayCountPrint.pdb
