@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\bin\Debug\VolumeCalcProject.exe.config
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\bin\Debug\VolumeCalcProject.exe
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\bin\Debug\VolumeCalcProject.pdb
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.frmVolumeCalc.resources
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.exe
+C:\Users\lsy20\source\repos\week2\FirstSolution\VolumeCalcProject\obj\Debug\VolumeCalcProject.pdb

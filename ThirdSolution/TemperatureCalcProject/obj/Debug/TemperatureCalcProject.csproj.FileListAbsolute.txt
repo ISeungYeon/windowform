@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\bin\Debug\TemperatureCalcProject.exe.config
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\bin\Debug\TemperatureCalcProject.exe
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\bin\Debug\TemperatureCalcProject.pdb
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.Form1.resources
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.exe
+C:\Users\lsy20\source\repos\week2\ThirdSolution\TemperatureCalcProject\obj\Debug\TemperatureCalcProject.pdb

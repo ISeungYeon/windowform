@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\bin\Debug\CircleCalcProject.exe.config
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\bin\Debug\CircleCalcProject.exe
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\bin\Debug\CircleCalcProject.pdb
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.Form1.resources
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.exe
+C:\Users\lsy20\source\repos\week2\SecondSolution\CircleCalcProject\obj\Debug\CircleCalcProject.pdb

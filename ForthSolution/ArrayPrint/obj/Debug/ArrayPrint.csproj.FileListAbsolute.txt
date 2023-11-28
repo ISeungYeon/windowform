@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\bin\Debug\ArrayPrint.exe.config
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\bin\Debug\ArrayPrint.exe
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\bin\Debug\ArrayPrint.pdb
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.Form1.resources
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.exe
+C:\Users\lsy20\source\repos\week2\ForthSolution\ArrayPrint\obj\Debug\ArrayPrint.pdb
