@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\bin\Debug\ColorPointProgram.exe.config
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\bin\Debug\ColorPointProgram.exe
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\bin\Debug\ColorPointProgram.pdb
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.ColorPointFrom.resources
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.exe
+C:\Users\lsy20\source\repos\week4\week4Program\ColorPointProgram\obj\Debug\ColorPointProgram.pdb

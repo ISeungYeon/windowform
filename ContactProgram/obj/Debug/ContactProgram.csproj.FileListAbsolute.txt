@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\bin\Debug\ContactProgram.exe.config
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\bin\Debug\ContactProgram.exe
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\bin\Debug\ContactProgram.pdb
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.ContactForm.resources
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.exe
+C:\Users\lsy20\source\repos\week4\week4Program\ContactProgram\obj\Debug\ContactProgram.pdb
