@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\bin\Debug\FractionAddProject.exe.config
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\bin\Debug\FractionAddProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\bin\Debug\FractionAddProject.pdb
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.FractionAddForm.resources
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\FractionAddProject\obj\Debug\FractionAddProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\bin\Debug\ClassExamProject.exe.config
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\bin\Debug\ClassExamProject.exe
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\bin\Debug\ClassExamProject.pdb
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.MainForm.resources
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.exe
+C:\Users\lsy20\source\repos\week3\ClassExam\ClassExamProject\obj\Debug\ClassExamProject.pdb

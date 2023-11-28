@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\bin\Debug\BMICheckProject.exe.config
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\bin\Debug\BMICheckProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\bin\Debug\BMICheckProject.pdb
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.BmiCheck.resources
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\BMICheckProject\obj\Debug\BMICheckProject.pdb

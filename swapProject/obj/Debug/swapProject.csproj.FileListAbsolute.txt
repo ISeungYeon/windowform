@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\bin\Debug\swapProject.exe.config
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\bin\Debug\swapProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\bin\Debug\swapProject.pdb
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.MainForm.resources
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\swapProject\obj\Debug\swapProject.pdb
