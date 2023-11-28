@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\bin\Debug\WhoisBigProject.exe.config
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\bin\Debug\WhoisBigProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\bin\Debug\WhoisBigProject.pdb
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.MainForm.resources
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.exe
+C:\Users\lsy20\source\repos\week3\20193422\WhoisBigProject\obj\Debug\WhoisBigProject.pdb
