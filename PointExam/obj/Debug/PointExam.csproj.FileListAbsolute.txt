@@ -1,0 +1,11 @@
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\bin\Debug\PointExam.exe.config
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\bin\Debug\PointExam.exe
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\bin\Debug\PointExam.pdb
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.csproj.AssemblyReference.cache
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.PointForm.resources
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.Properties.Resources.resources
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.csproj.GenerateResource.cache
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.csproj.CoreCompileInputs.cache
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.exe
+C:\Users\lsy20\source\repos\week4\week4Program\PointExam\obj\Debug\PointExam.pdb
